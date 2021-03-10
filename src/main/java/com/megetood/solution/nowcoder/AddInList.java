@@ -27,7 +27,6 @@ public class AddInList {
         // write code here
         Stack<Integer> nums1 = new Stack<>();
         Stack<Integer> nums2 = new Stack<>();
-
         Stack<Integer> res = new Stack<>();
 
         // init nums1,nums2
